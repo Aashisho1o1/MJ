@@ -1,0 +1,10 @@
+{
+  "target_roles": ["[role]"],
+  "locations": ["[location]"],
+  "remote_preference": "[remote, hybrid, onsite, or flexible]",
+  "experience_level": "[student, new_grad, early_career, or other]",
+  "work_authorization_notes": "[optional verified constraint]",
+  "freshness_days": 7,
+  "max_results_per_scan": 5,
+  "allow_cold_outreach": false
+}

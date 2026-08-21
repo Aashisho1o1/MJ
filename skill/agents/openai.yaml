@@ -1,0 +1,4 @@
+interface:
+  display_name: ApplyOps
+  short_description: Network-first job search with referral paths
+  default_prompt: Find fresh verified roles where I may have a referral path.
